@@ -1,8 +1,14 @@
-*{
+body{
+  background: #999999;
+  }
+  *{
   color:red;
 }
 div{
-  height: 250px;
+  height: 350px;
+  width: 250px;
+  display: inline-block;
+  border: 1px solid black;
 }
 .blue{
   background: #2980b9;
