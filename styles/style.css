@@ -1,0 +1,49 @@
+body{
+  margin:0;
+  font-size:14px;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Modak', cursive;
+}
+
+.container{
+  width:960px;
+  margin:0 auto;
+}
+
+
+header#header{
+  background: #2c3e50;
+  padding:30px 20px;
+  color:white;
+  font-size: 30;
+}
+
+header#header img{
+  float: right;
+  padding-right: 20px;
+  width:150px;
+}
+
+div.SiteTitle{
+  float:right;
+  text-align: right;
+}
+
+article{
+  width:400px;
+  padding:10px;
+  float:left;
+  margin:10px;
+  background:#ECECEC
+}
+
+article h2{
+  text-transform: uppercase;
+  color:#c0392b;
+  font-size:25px;
+}
+
+article p{
+  color:#333333;
+}
